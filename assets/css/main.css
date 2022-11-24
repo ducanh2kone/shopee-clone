@@ -248,8 +248,7 @@
 .header__notify-list {
     padding-left: 0;
 }
-.header__notify-item {
-}
+
 .header__notify-item:hover {
     background-color: #f3f3f3;
 }
@@ -600,9 +599,7 @@
     justify-content: space-between;
     margin-top: 4px;
 }
-.header__cart-item-description {
 
-}
 .header__cart-item-remove {
     font-size: 1.4rem;
     color: var(--text-color);
@@ -1073,9 +1070,7 @@ i.home-product-item__like-icon-fill {
 .home-product-item__brand {
     margin-right: auto;
 }
-.home-product-item__origin-name {
 
-}
 .home-product-item__favorite {
     position: absolute;
     top:10px;
@@ -1158,8 +1153,6 @@ i.home-product-item__like-icon-fill {
 .footer-list {
     padding-left: 0;
     list-style: none;
-}
-.footer-item {
 }
 .footer-item__link {
     text-decoration: none;
